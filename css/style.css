@@ -1,0 +1,24 @@
+.nav_buttons {
+    display: inline-block;
+    padding: 15px;
+    background-color: lightcyan;
+}
+#nav {
+    background-color: grey;
+}
+#left {
+    width: 29%;
+    float: left;
+    background-color: lightgray;
+    height: 1000px;
+}
+#right {
+    width: 71%;
+    float: left;
+    background-color: lightpink;
+    height: 1000px;
+}
+#top{
+    background-color: rgb(80, 247, 191);
+    height: 250px;
+}
